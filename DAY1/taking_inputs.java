@@ -32,5 +32,53 @@ If you want to take input into a String and allow multiple words or a full sente
 ✅ Correct:
     String name = sc.nextLine();        // ✔️ correct usage
 
-    
+
+
+
+📥 Input Methods in Java using Scanner
+
+1️⃣ next()
+   ➤ Takes a single word (no spaces)
+   Example:
+       String name = sc.next();
+
+2️⃣ nextLine()
+   ➤ Takes the entire line including spaces
+   Example:
+       String sentence = sc.nextLine();
+
+3️⃣ nextInt()
+   ➤ Takes integer input
+   Example:
+       int age = sc.nextInt();
+
+4️⃣ nextByte()
+   ➤ Takes byte input (-128 to 127)
+   Example:
+       byte smallNum = sc.nextByte();
+
+5️⃣ nextFloat()
+   ➤ Takes float input (e.g., 3.14f)
+   Example:
+       float marks = sc.nextFloat();
+
+6️⃣ nextDouble()
+   ➤ Takes double input (more precision than float)
+   Example:
+       double pi = sc.nextDouble();
+
+7️⃣ nextBoolean()
+   ➤ Takes boolean input (true/false)
+   Example:
+       boolean isJavaFun = sc.nextBoolean();
+
+8️⃣ nextShort()
+   ➤ Takes short input (-32,768 to 32,767)
+   Example:
+       short s = sc.nextShort();
+
+9️⃣ nextLong()
+   ➤ Takes long input (for very large numbers)
+   Example:
+       long bigNumber = sc.nextLong();
 */
