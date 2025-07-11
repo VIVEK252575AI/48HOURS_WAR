@@ -1,3 +1,4 @@
+package DAY1;
 import java.util.*;
 
 public class odd_even {
