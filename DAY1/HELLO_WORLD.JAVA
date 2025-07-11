@@ -9,3 +9,10 @@ public   class   HelloWorld {
     }
 
 }
+
+/* importent things for noob
+ln is use to print output in the next line 
+example : system.out.println("xyz"); 
+example : system.out.print("xyz\n"); 
+*/  
+
