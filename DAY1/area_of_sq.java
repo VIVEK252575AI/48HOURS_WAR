@@ -1,3 +1,4 @@
+package DAY1;
 import java.util.*;
 
 // Area of a Square
