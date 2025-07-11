@@ -52,14 +52,25 @@ I also solved additional Operator-based Java programs:
 - Ready to move into **Loops + Patterns + Functions** tomorrow.
 
 ---
+# 🚀 Java Hackathon Sprint — Day 1 ✅  
+### *"Code Fast. Learn Deep. Build Strong."*
+
+Welcome to Day 1 of my **48-Hour Java Hackathon Sprint!**  
+This repo showcases my rapid-fire learning, problem-solving, and code-building sprint in Java.  
+I organized my programs into neat folders for clarity and long-term reusability.
+
+---
+
+## 🎯 **📂 Organized Folder Structure:**
+```bash
 /Day-1/
 │
-├── Basics/
+├── Basics/                     # Fundamental Java Programs
 │   ├── HELLO_WORLD.java
 │   ├── taking_inputs.java
 │   ├── size_of_datatype.java
 │
-├── Arithmetic_Programs/
+├── Arithmetic_Programs/        # Arithmetic & Math Programs
 │   ├── add_two_num.java
 │   ├── add_two_num_by_taking_inputs.java
 │   ├── Area_of_circle.java
@@ -68,14 +79,14 @@ I also solved additional Operator-based Java programs:
 │   ├── bill.java
 │   ├── incometax.java
 │
-├── Conditional_Programs/
+├── Conditional_Programs/       # Conditional Logic Programs
 │   ├── largest_of_two.java
 │   ├── odd_even.java
 │
-├── Patterns/
+├── Patterns/                   # Loop-based Star Patterns
 │   ├── print_star_pattern.java
 │
-├── MISTAKE.MD
+├── MISTAKE.MD                  # Mistake Log & Reflection
 
 ## ✅ Programs Completed Today:
 
