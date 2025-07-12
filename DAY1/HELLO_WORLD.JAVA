@@ -1,5 +1,5 @@
 // THIS IS THE SIMPLE HELLO WORLD PROGRAM 
-
+package day1;
 public   class   HelloWorld {
     public static void main (String[]args){
 
