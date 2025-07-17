@@ -145,8 +145,8 @@ cd DAY1/Basics/
 javac HELLO_WORLD.java
 
 # Run the program
-java HELLO_WORLD
-## 📚 Learning Path Recommendation
+
+### 📚 Learning Path Recommendation
 
 1. **Start with Day 1 Basics** – Foundation building  
 2. **Progress through Arithmetic** – Mathematical operations  
@@ -157,16 +157,16 @@ java HELLO_WORLD
 
 ---
 
-## 🏆 Challenge Methodology
+### 🏆 Challenge Methodology
 
-### 💡 Sprint Philosophy
+#### 💡 Sprint Philosophy
 
 - **Intensity over Duration** – Focused learning bursts  
 - **Practice over Theory** – Hands-on implementation  
 - **Building over Memorizing** – Creating functional solutions  
 - **Reflection over Rushing** – Learning from mistakes  
 
-### 📘 Learning Techniques Applied
+#### 📘 Learning Techniques Applied
 
 - **Pomodoro Technique** – Focused coding sessions  
 - **Active Problem Solving** – Learning by doing  
@@ -175,16 +175,16 @@ java HELLO_WORLD
 
 ---
 
-## 📈 Progress Tracking
+### 📈 Progress Tracking
 
-### 🚀 Metrics Achieved
+#### 🚀 Metrics Achieved
 
 - **Coding Speed:** Increased by 300%  
 - **Problem-Solving:** 25+ problems solved  
 - **Code Quality:** Improved structure and readability  
 - **Concept Retention:** High retention through practice  
 
-### 📅 Skills Development Timeline
+#### 📅 Skills Development Timeline
 
 | Time        | Focus Area                   |
 |-------------|------------------------------|
@@ -197,7 +197,7 @@ java HELLO_WORLD
 
 ---
 
-## 🤝 Contributing
+### 🤝 Contributing
 
 This repository serves as a **learning template**. Feel free to:
 
@@ -208,23 +208,23 @@ This repository serves as a **learning template**. Feel free to:
 
 ---
 
-## 📝 Reflection & Next Steps
+### 📝 Reflection & Next Steps
 
-### ✅ What Worked Well
+#### ✅ What Worked Well
 
 - Structured learning approach  
 - Hands-on problem solving  
 - Progressive complexity increase  
 - Mistake documentation for learning  
 
-### 🛠️ Areas for Improvement
+#### 🛠️ Areas for Improvement
 
 - Code optimization techniques  
 - Advanced data structures  
 - Object-oriented programming  
 - Database integration  
 
-### 📌 Future Learning Goals
+#### 📌 Future Learning Goals
 
 - Advanced Java (Collections, Generics)  
 - Spring Framework  
@@ -233,7 +233,7 @@ This repository serves as a **learning template**. Feel free to:
 
 ---
 
-## 🌟 Inspiration
+### 🌟 Inspiration
 
 > _"The expert in anything was once a beginner who never gave up."_
 
@@ -242,7 +242,7 @@ The key is **consistency**, **practice**, and the **willingness to embrace chall
 
 ---
 
-## 📞 Connect & Share
+### 📞 Connect & Share
 
 If this repository inspired your own learning journey, **I’d love to hear about it!**  
 Share your progress and **let’s grow together in the Java community**.
